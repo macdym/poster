@@ -1,0 +1,320 @@
+Date : 2023-05-30 00:13:07
+Directory : c:\Users\dell\Desktop\Projekt inżynierski\poster.client
+Total : 187 files,  14226 codes, -193 comments, -431 blanks, all 13602 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          7 |     13,309 |          0 |          0 |     13,309 |
+| TypeScript JSX     |         41 |      3,844 |         36 |        262 |      4,142 |
+| TypeScript         |         18 |      1,154 |          5 |        139 |      1,298 |
+| Markdown           |          5 |        161 |          0 |         47 |        208 |
+| CSS                |          2 |        141 |          0 |         20 |        161 |
+| JavaScript JSX     |          4 |         93 |          0 |         15 |        108 |
+| JSON with Comments |          1 |         26 |          0 |          1 |         27 |
+| HTML               |          1 |         20 |         23 |          1 |         44 |
+| XML                |          5 |        -80 |          0 |        -25 |       -105 |
+| C#                 |        103 |     -4,442 |       -257 |       -891 |     -5,590 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                              |        187 |     14,226 |       -193 |       -431 |     13,602 |
+| . (Files)                                                                                                                      |          4 |     13,377 |          0 |         24 |     13,401 |
+| ..                                                                                                                             |        111 |     -4,564 |       -257 |       -919 |     -5,740 |
+| ..\Poster                                                                                                                      |        111 |     -4,564 |       -257 |       -919 |     -5,740 |
+| ..\Poster\poster.api                                                                                                           |         16 |       -801 |       -251 |       -152 |     -1,204 |
+| ..\Poster\poster.api (Files)                                                                                                   |          4 |        -90 |          0 |        -19 |       -109 |
+| ..\Poster\poster.api\Controllers                                                                                               |          8 |       -543 |       -251 |       -109 |       -903 |
+| ..\Poster\poster.api\Extensions                                                                                                |          2 |       -116 |          0 |        -15 |       -131 |
+| ..\Poster\poster.api\Properties                                                                                                |          1 |        -15 |          0 |         -1 |        -16 |
+| ..\Poster\poster.api\Services                                                                                                  |          1 |        -37 |          0 |         -8 |        -45 |
+| ..\Poster\poster.application                                                                                                   |         61 |     -1,560 |          0 |       -282 |     -1,842 |
+| ..\Poster\poster.application (Files)                                                                                           |          1 |        -19 |          0 |         -6 |        -25 |
+| ..\Poster\poster.application\Aktywnosci                                                                                        |         16 |       -544 |          0 |        -97 |       -641 |
+| ..\Poster\poster.application\Aktywnosci\Commands                                                                               |          7 |       -301 |          0 |        -62 |       -363 |
+| ..\Poster\poster.application\Aktywnosci\DTOs                                                                                   |          4 |        -63 |          0 |         -8 |        -71 |
+| ..\Poster\poster.application\Aktywnosci\Queries                                                                                |          3 |       -143 |          0 |        -23 |       -166 |
+| ..\Poster\poster.application\Aktywnosci\Validators                                                                             |          2 |        -37 |          0 |         -4 |        -41 |
+| ..\Poster\poster.application\Extensions                                                                                        |          1 |        -11 |          0 |         -1 |        -12 |
+| ..\Poster\poster.application\Interfaces                                                                                        |          2 |        -17 |          0 |         -3 |        -20 |
+| ..\Poster\poster.application\Kategorie                                                                                         |          7 |       -185 |          0 |        -32 |       -217 |
+| ..\Poster\poster.application\Kategorie\Commands                                                                                |          3 |       -110 |          0 |        -19 |       -129 |
+| ..\Poster\poster.application\Kategorie\DTOs                                                                                    |          1 |         -8 |          0 |         -1 |         -9 |
+| ..\Poster\poster.application\Kategorie\Queries                                                                                 |          2 |        -55 |          0 |        -10 |        -65 |
+| ..\Poster\poster.application\Kategorie\Validators                                                                              |          1 |        -12 |          0 |         -2 |        -14 |
+| ..\Poster\poster.application\MappingProfiles                                                                                   |          6 |       -106 |          0 |        -17 |       -123 |
+| ..\Poster\poster.application\Miasta                                                                                            |          7 |       -186 |          0 |        -33 |       -219 |
+| ..\Poster\poster.application\Miasta\Commands                                                                                   |          3 |       -110 |          0 |        -19 |       -129 |
+| ..\Poster\poster.application\Miasta\DTOs                                                                                       |          1 |         -9 |          0 |         -2 |        -11 |
+| ..\Poster\poster.application\Miasta\Queries                                                                                    |          2 |        -55 |          0 |        -10 |        -65 |
+| ..\Poster\poster.application\Miasta\Validators                                                                                 |          1 |        -12 |          0 |         -2 |        -14 |
+| ..\Poster\poster.application\Miejsca                                                                                           |          8 |       -219 |          0 |        -41 |       -260 |
+| ..\Poster\poster.application\Miejsca\Commands                                                                                  |          3 |       -110 |          0 |        -20 |       -130 |
+| ..\Poster\poster.application\Miejsca\DTOs                                                                                      |          1 |        -12 |          0 |         -1 |        -13 |
+| ..\Poster\poster.application\Miejsca\Queries                                                                                   |          3 |        -83 |          0 |        -18 |       -101 |
+| ..\Poster\poster.application\Miejsca\Validators                                                                                |          1 |        -14 |          0 |         -2 |        -16 |
+| ..\Poster\poster.application\Photos                                                                                            |          5 |       -133 |          0 |        -30 |       -163 |
+| ..\Poster\poster.application\Photos (Files)                                                                                    |          1 |         -8 |          0 |         -1 |         -9 |
+| ..\Poster\poster.application\Photos\Commands                                                                                   |          3 |       -116 |          0 |        -28 |       -144 |
+| ..\Poster\poster.application\Photos\DTOs                                                                                       |          1 |         -9 |          0 |         -1 |        -10 |
+| ..\Poster\poster.application\Users                                                                                             |          8 |       -140 |          0 |        -22 |       -162 |
+| ..\Poster\poster.application\Users\Commands                                                                                    |          1 |        -34 |          0 |         -7 |        -41 |
+| ..\Poster\poster.application\Users\DTOs                                                                                        |          6 |        -85 |          0 |        -11 |        -96 |
+| ..\Poster\poster.application\Users\Validators                                                                                  |          1 |        -21 |          0 |         -4 |        -25 |
+| ..\Poster\poster.domain                                                                                                        |          8 |        -97 |          0 |        -14 |       -111 |
+| ..\Poster\poster.infrastructure                                                                                                |          7 |       -167 |          0 |        -43 |       -210 |
+| ..\Poster\poster.infrastructure (Files)                                                                                        |          1 |        -13 |          0 |         -5 |        -18 |
+| ..\Poster\poster.infrastructure\Photos                                                                                         |          2 |        -56 |          0 |         -9 |        -65 |
+| ..\Poster\poster.infrastructure\Security                                                                                       |          4 |        -98 |          0 |        -29 |       -127 |
+| ..\Poster\poster.persistance                                                                                                   |         19 |     -1,939 |         -6 |       -428 |     -2,373 |
+| ..\Poster\poster.persistance (Files)                                                                                           |          2 |        -58 |          0 |        -14 |        -72 |
+| ..\Poster\poster.persistance\Aktywnosci                                                                                        |          2 |       -126 |          0 |        -18 |       -144 |
+| ..\Poster\poster.persistance\Aktywnosci\Repositories                                                                           |          2 |       -126 |          0 |        -18 |       -144 |
+| ..\Poster\poster.persistance\Aktywnosci\Repositories (Files)                                                                   |          1 |       -108 |          0 |        -16 |       -124 |
+| ..\Poster\poster.persistance\Aktywnosci\Repositories\Interfaces                                                                |          1 |        -18 |          0 |         -2 |        -20 |
+| ..\Poster\poster.persistance\Kategorie                                                                                         |          2 |        -58 |          0 |        -12 |        -70 |
+| ..\Poster\poster.persistance\Kategorie\Repositories                                                                            |          2 |        -58 |          0 |        -12 |        -70 |
+| ..\Poster\poster.persistance\Kategorie\Repositories (Files)                                                                    |          1 |        -46 |          0 |        -10 |        -56 |
+| ..\Poster\poster.persistance\Kategorie\Repositories\Interfaces                                                                 |          1 |        -12 |          0 |         -2 |        -14 |
+| ..\Poster\poster.persistance\Miasta                                                                                            |          2 |        -60 |          0 |        -12 |        -72 |
+| ..\Poster\poster.persistance\Miasta\Respositories                                                                              |          2 |        -60 |          0 |        -12 |        -72 |
+| ..\Poster\poster.persistance\Miasta\Respositories (Files)                                                                      |          1 |        -48 |          0 |        -10 |        -58 |
+| ..\Poster\poster.persistance\Miasta\Respositories\Interfaces                                                                   |          1 |        -12 |          0 |         -2 |        -14 |
+| ..\Poster\poster.persistance\Miejsca                                                                                           |          2 |        -68 |          0 |        -13 |        -81 |
+| ..\Poster\poster.persistance\Miejsca\Repositories                                                                              |          2 |        -68 |          0 |        -13 |        -81 |
+| ..\Poster\poster.persistance\Miejsca\Repositories (Files)                                                                      |          1 |        -55 |          0 |        -11 |        -66 |
+| ..\Poster\poster.persistance\Miejsca\Repositories\Interfaces                                                                   |          1 |        -13 |          0 |         -2 |        -15 |
+| ..\Poster\poster.persistance\Migrations                                                                                        |          3 |     -1,127 |         -6 |       -330 |     -1,463 |
+| ..\Poster\poster.persistance\Seed                                                                                              |          4 |       -343 |          0 |        -13 |       -356 |
+| ..\Poster\poster.persistance\Seed (Files)                                                                                      |          1 |        -48 |          0 |         -5 |        -53 |
+| ..\Poster\poster.persistance\Seed\Seeders                                                                                      |          3 |       -295 |          0 |         -8 |       -303 |
+| ..\Poster\poster.persistance\Users                                                                                             |          2 |        -99 |          0 |        -16 |       -115 |
+| ..\Poster\poster.persistance\Users\Repository                                                                                  |          2 |        -99 |          0 |        -16 |       -115 |
+| ..\Poster\poster.persistance\Users\Repository (Files)                                                                          |          1 |        -85 |          0 |        -14 |        -99 |
+| ..\Poster\poster.persistance\Users\Repository\Interfaces                                                                       |          1 |        -14 |          0 |         -2 |        -16 |
+| .VSCodeCounter                                                                                                                 |          5 |        136 |          0 |         26 |        162 |
+| .VSCodeCounter\2023-05-30_00-11-37                                                                                             |          5 |        136 |          0 |         26 |        162 |
+| public                                                                                                                         |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                                            |         65 |      5,232 |         41 |        436 |      5,709 |
+| src (Files)                                                                                                                    |          4 |         31 |          5 |          8 |         44 |
+| src\app                                                                                                                        |         27 |      1,909 |          0 |        211 |      2,120 |
+| src\app\api                                                                                                                    |          1 |        153 |          0 |         13 |        166 |
+| src\app\common                                                                                                                 |          2 |        221 |          0 |         16 |        237 |
+| src\app\components                                                                                                             |          5 |        194 |          0 |         33 |        227 |
+| src\app\layout                                                                                                                 |          4 |        365 |          0 |         22 |        387 |
+| src\app\models                                                                                                                 |          6 |         82 |          0 |         12 |         94 |
+| src\app\router                                                                                                                 |          2 |         85 |          0 |          7 |         92 |
+| src\app\store                                                                                                                  |          7 |        809 |          0 |        108 |        917 |
+| src\features                                                                                                                   |         34 |      3,292 |         36 |        217 |      3,545 |
+| src\features\aktywnosci                                                                                                        |         13 |      1,333 |          1 |         77 |      1,411 |
+| src\features\aktywnosci\dashboard                                                                                              |          5 |        551 |          0 |         29 |        580 |
+| src\features\aktywnosci\details                                                                                                |          7 |        546 |          1 |         38 |        585 |
+| src\features\aktywnosci\form                                                                                                   |          1 |        236 |          0 |         10 |        246 |
+| src\features\errors                                                                                                            |          3 |         65 |          0 |         13 |         78 |
+| src\features\homePage                                                                                                          |          1 |         83 |          0 |          6 |         89 |
+| src\features\kategorie                                                                                                         |          2 |        228 |          0 |         17 |        245 |
+| src\features\miasta                                                                                                            |          2 |        228 |          0 |         17 |        245 |
+| src\features\miejsca                                                                                                           |          2 |        302 |          0 |         19 |        321 |
+| src\features\users                                                                                                             |         11 |      1,053 |         35 |         68 |      1,156 |
+| src\features\users (Files)                                                                                                     |          3 |        364 |          0 |         15 |        379 |
+| src\features\users\dashboard                                                                                                   |          1 |        207 |          0 |         11 |        218 |
+| src\features\users\profile                                                                                                     |          7 |        482 |         35 |         42 |        559 |
++--------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                                       | language           | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\AccountController.cs                                   | C#                 |       -188 |        -48 |        -38 |       -274 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\AktywnosciController.cs                                | C#                 |        -69 |        -46 |        -13 |       -128 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\BaseController.cs                                      | C#                 |        -15 |          0 |         -3 |        -18 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\KategorieController.cs                                 | C#                 |        -53 |        -27 |         -8 |        -88 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\MiastaController.cs                                    | C#                 |        -46 |        -27 |         -8 |        -81 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\MiejscaController.cs                                   | C#                 |        -65 |        -33 |         -9 |       -107 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\PhotosController.cs                                    | C#                 |        -47 |        -31 |        -12 |        -90 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\UsersController.cs                                     | C#                 |        -60 |        -39 |        -18 |       -117 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Extensions\ApplicationServiceExtensions.cs                         | C#                 |        -59 |          0 |         -7 |        -66 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Extensions\IdentityServiceExtensions.cs                            | C#                 |        -57 |          0 |         -8 |        -65 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Program.cs                                                         | C#                 |        -42 |          0 |        -12 |        -54 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Properties\launchSettings.json                                     | JSON               |        -15 |          0 |         -1 |        -16 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Services\TokenService.cs                                           | C#                 |        -37 |          0 |         -8 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\appsettings.Development.json                                       | JSON               |        -13 |          0 |         -1 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\appsettings.json                                                   | JSON               |        -14 |          0 |         -1 |        -15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\poster.api.csproj                                                  | XML                |        -21 |          0 |         -5 |        -26 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\AddAktywnoscPhoto.cs                   | C#                 |        -41 |          0 |         -9 |        -50 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\CreateAktywnosc.cs                     | C#                 |        -58 |          0 |         -9 |        -67 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\DeleteAktywnosc.cs                     | C#                 |        -35 |          0 |         -7 |        -42 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\DeleteAktywnoscPhoto.cs                | C#                 |        -36 |          0 |         -9 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\SetMainAktywnoscPhoto.cs               | C#                 |        -36 |          0 |         -9 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\UpdateAktywnosc.cs                     | C#                 |        -39 |          0 |         -6 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\UpdateAktywnoscUser.cs                 | C#                 |        -56 |          0 |        -13 |        -69 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\AktywnoscDTO.cs                            | C#                 |        -22 |          0 |         -2 |        -24 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\AktywnoscFilterDTO.cs                      | C#                 |        -12 |          0 |         -1 |        -13 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\CreateAktywnoscDTO.cs                      | C#                 |        -13 |          0 |         -2 |        -15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\UpdateAktywnoscDTO.cs                      | C#                 |        -16 |          0 |         -3 |        -19 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Queries\GetAktywnoscById.cs                     | C#                 |        -29 |          0 |         -6 |        -35 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Queries\GetAllAktywnosci.cs                     | C#                 |        -26 |          0 |         -5 |        -31 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Queries\GetFilteredAktywnosci.cs                | C#                 |        -88 |          0 |        -12 |       -100 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Validators\CreateAktywnoscValidator.cs          | C#                 |        -18 |          0 |         -2 |        -20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Validators\UpdateAktywnoscValidator.cs          | C#                 |        -19 |          0 |         -2 |        -21 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Extensions\Result.cs                                       | C#                 |        -11 |          0 |         -1 |        -12 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Interfaces\IPhotoAccessor.cs                               | C#                 |        -10 |          0 |         -2 |        -12 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Interfaces\IUserAccessor.cs                                | C#                 |         -7 |          0 |         -1 |         -8 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Commands\CreateKategoria.cs                      | C#                 |        -39 |          0 |         -7 |        -46 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Commands\DeleteKategoria.cs                      | C#                 |        -32 |          0 |         -6 |        -38 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Commands\UpdateKategoria.cs                      | C#                 |        -39 |          0 |         -6 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\DTOs\KategoriaDTO.cs                             | C#                 |         -8 |          0 |         -1 |         -9 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Queries\GetAllKategorie.cs                       | C#                 |        -26 |          0 |         -5 |        -31 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Queries\GetKategoriaById.cs                      | C#                 |        -29 |          0 |         -5 |        -34 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Validators\KategoriaValidator.cs                 | C#                 |        -12 |          0 |         -2 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\AktywnoscMappingProfile.cs                 | C#                 |        -29 |          0 |         -6 |        -35 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\KategoriaMappingProfile.cs                 | C#                 |        -14 |          0 |         -2 |        -16 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\MiastoMappingProfile.cs                    | C#                 |        -15 |          0 |         -2 |        -17 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\MiejsceMappingProfile.cs                   | C#                 |        -17 |          0 |         -3 |        -20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\PhotoMappingProfile.cs                     | C#                 |        -14 |          0 |         -2 |        -16 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\UsersMappingProfile.cs                     | C#                 |        -17 |          0 |         -2 |        -19 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Commands\CreateMiasto.cs                            | C#                 |        -39 |          0 |         -7 |        -46 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Commands\DeleteMiasto.cs                            | C#                 |        -32 |          0 |         -6 |        -38 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Commands\UpdateMiasto.cs                            | C#                 |        -39 |          0 |         -6 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\DTOs\MiastoDTO.cs                                   | C#                 |         -9 |          0 |         -2 |        -11 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Queries\GetAllMiasta.cs                             | C#                 |        -26 |          0 |         -5 |        -31 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Queries\GetMiastoById.cs                            | C#                 |        -29 |          0 |         -5 |        -34 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Validators\MiastoValidator.cs                       | C#                 |        -12 |          0 |         -2 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Commands\CreateMiejsce.cs                          | C#                 |        -39 |          0 |         -7 |        -46 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Commands\DeleteMiejsce.cs                          | C#                 |        -32 |          0 |         -7 |        -39 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Commands\UpdateMiejsce.cs                          | C#                 |        -39 |          0 |         -6 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\DTOs\MiejsceDTO.cs                                 | C#                 |        -12 |          0 |         -1 |        -13 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Queries\GetAllMiejsca.cs                           | C#                 |        -26 |          0 |         -6 |        -32 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Queries\GetMiejscaByMiastoId.cs                    | C#                 |        -28 |          0 |         -6 |        -34 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Queries\GetMiejsceById.cs                          | C#                 |        -29 |          0 |         -6 |        -35 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Validators\MiejsceValidator.cs                     | C#                 |        -14 |          0 |         -2 |        -16 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\Commands\AddPhoto.cs                                | C#                 |        -42 |          0 |         -9 |        -51 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\Commands\DeletePhoto.cs                             | C#                 |        -38 |          0 |         -9 |        -47 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\Commands\SetMainPhoto.cs                            | C#                 |        -36 |          0 |        -10 |        -46 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\DTOs\PhotoDTO.cs                                    | C#                 |         -9 |          0 |         -1 |        -10 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\PhotoUploadResult.cs                                | C#                 |         -8 |          0 |         -1 |         -9 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\Commands\UpdateUser.cs                               | C#                 |        -34 |          0 |         -7 |        -41 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\ChangePasswordDTO.cs                            | C#                 |        -16 |          0 |         -2 |        -18 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\LoginUserDTO.cs                                 | C#                 |        -12 |          0 |         -2 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\RegisterUserDTO.cs                              | C#                 |        -15 |          0 |         -2 |        -17 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\UpdateRoleDTO.cs                                | C#                 |         -7 |          0 |         -1 |         -8 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\UpdateUserDTO.cs                                | C#                 |        -15 |          0 |         -2 |        -17 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\UserDTO.cs                                      | C#                 |        -20 |          0 |         -2 |        -22 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\Validators\ChangePasswordValidator.cs                | C#                 |        -21 |          0 |         -4 |        -25 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\poster.application.csproj                                  | XML                |        -19 |          0 |         -6 |        -25 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Aktywnosc.cs                                                    | C#                 |        -19 |          0 |         -3 |        -22 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\AktywnoscUser.cs                                                | C#                 |        -11 |          0 |         -1 |        -12 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Kategoria.cs                                                    | C#                 |         -9 |          0 |         -1 |        -10 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Miasto.cs                                                       | C#                 |        -10 |          0 |         -1 |        -11 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Miejsce.cs                                                      | C#                 |        -13 |          0 |         -1 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Photo.cs                                                        | C#                 |        -13 |          0 |         -1 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\User.cs                                                         | C#                 |        -12 |          0 |         -2 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\poster.domain.csproj                                            | XML                |        -10 |          0 |         -4 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Photos\CloudinarySettings.cs                            | C#                 |         -9 |          0 |         -1 |        -10 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Photos\PhotoAccessor.cs                                 | C#                 |        -47 |          0 |         -8 |        -55 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\IsAdminRequirement.cs                          | C#                 |        -16 |          0 |         -4 |        -20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\IsCurrentUserRequirement.cs                    | C#                 |        -30 |          0 |        -11 |        -41 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\IsHostRequirement.cs                           | C#                 |        -34 |          0 |        -11 |        -45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\UserAccessor.cs                                | C#                 |        -18 |          0 |         -3 |        -21 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\poster.infrastructure.csproj                            | XML                |        -13 |          0 |         -5 |        -18 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Aktywnosci\Repositories\AktywnoscRepository.cs             | C#                 |       -108 |          0 |        -16 |       -124 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Aktywnosci\Repositories\Interfaces\IAktywnoscRepository.cs | C#                 |        -18 |          0 |         -2 |        -20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\DataContext.cs                                             | C#                 |        -41 |          0 |         -9 |        -50 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Kategorie\Repositories\Interfaces\IKategorieRepository.cs  | C#                 |        -12 |          0 |         -2 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Kategorie\Repositories\KategorieRepository.cs              | C#                 |        -46 |          0 |        -10 |        -56 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miasta\Respositories\Interfaces\IMiastaRepository.cs       | C#                 |        -12 |          0 |         -2 |        -14 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miasta\Respositories\MiastaRepository.cs                   | C#                 |        -48 |          0 |        -10 |        -58 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miejsca\Repositories\Interfaces\IMiejscaRepository.cs      | C#                 |        -13 |          0 |         -2 |        -15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miejsca\Repositories\MiejscaRepository.cs                  | C#                 |        -55 |          0 |        -11 |        -66 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Migrations\20230529210117_InitialCreate.Designer.cs        | C#                 |       -381 |         -2 |       -144 |       -527 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Migrations\20230529210117_InitialCreate.cs                 | C#                 |       -367 |         -3 |        -42 |       -412 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Migrations\DataContextModelSnapshot.cs                     | C#                 |       -379 |         -1 |       -144 |       -524 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seed.cs                                               | C#                 |        -48 |          0 |         -5 |        -53 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seeders\AktywnosciSeed.cs                             | C#                 |        -64 |          0 |         -2 |        -66 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seeders\MiastoSeed.cs                                 | C#                 |       -219 |          0 |         -3 |       -222 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seeders\UserSeed.cs                                   | C#                 |        -12 |          0 |         -3 |        -15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Users\Repository\Interfaces\IUsersRepository.cs            | C#                 |        -14 |          0 |         -2 |        -16 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Users\Repository\UsersRepository.cs                        | C#                 |        -85 |          0 |        -14 |        -99 |
+| c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\poster.persistance.csproj                                  | XML                |        -17 |          0 |         -5 |        -22 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\details.md                          | Markdown           |         74 |          0 |          6 |         80 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff-details.md                     | Markdown           |          9 |          0 |          6 |         15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff.md                             | Markdown           |         12 |          0 |          7 |         19 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.json                        | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.md                          | Markdown           |         40 |          0 |          7 |         47 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\README.md                                                              | Markdown           |         26 |          0 |         21 |         47 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package-lock.json                                                      | JSON               |     13,256 |          0 |          1 |     13,257 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package.json                                                           | JSON               |         69 |          0 |          1 |         70 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\index.html                                                      | HTML               |         20 |         23 |          1 |         44 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\manifest.json                                                   | JSON               |         25 |          0 |          1 |         26 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\api\agent.ts                                                   | TypeScript         |        153 |          0 |         13 |        166 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\PhotoUploadWidget.tsx                                   | TypeScript JSX     |        125 |          0 |         15 |        140 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\translations.ts                                         | TypeScript         |         96 |          0 |          1 |         97 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Clock.jsx                                           | JavaScript JSX     |         53 |          0 |          8 |         61 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Number.jsx                                          | JavaScript JSX     |         11 |          0 |          2 |         13 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Word.jsx                                            | JavaScript JSX     |         15 |          0 |          2 |         17 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\clockStyles.module.css                              | CSS                |        101 |          0 |         18 |        119 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\copyright.jsx                                       | JavaScript JSX     |         14 |          0 |          3 |         17 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\App.tsx                                                 | TypeScript JSX     |         39 |          0 |          6 |         45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\LoadingComponent.tsx                                    | TypeScript JSX     |         20 |          0 |          4 |         24 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\NavBar.tsx                                              | TypeScript JSX     |        266 |          0 |         10 |        276 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\styles.css                                              | CSS                |         40 |          0 |          2 |         42 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnosc.ts                                            | TypeScript         |         17 |          0 |          2 |         19 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnoscFilter.ts                                      | TypeScript         |          8 |          0 |          1 |          9 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\kategoria.ts                                            | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miasto.ts                                               | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miejsce.ts                                              | TypeScript         |          8 |          0 |          1 |          9 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\user.ts                                                 | TypeScript         |         41 |          0 |          6 |         47 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\protectedRoute.tsx                                      | TypeScript JSX     |         11 |          0 |          4 |         15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\routes.tsx                                              | TypeScript JSX     |         74 |          0 |          3 |         77 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\aktywnoscStore.ts                                        | TypeScript         |        238 |          0 |         23 |        261 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\commonStore.ts                                           | TypeScript         |         24 |          0 |          6 |         30 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\kategorieStore.ts                                        | TypeScript         |         73 |          0 |         13 |         86 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miastaStore.ts                                           | TypeScript         |         73 |          0 |         13 |         86 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miejscaStore.ts                                          | TypeScript         |         85 |          0 |         15 |        100 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\store.ts                                                 | TypeScript         |         27 |          0 |          4 |         31 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\userStore.ts                                             | TypeScript         |        289 |          0 |         34 |        323 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItem.tsx                | TypeScript JSX     |        162 |          0 |          9 |        171 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItemUsers.tsx           | TypeScript JSX     |         36 |          0 |          4 |         40 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciDashboard.tsx              | TypeScript JSX     |         62 |          0 |          7 |         69 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciFilters.tsx                | TypeScript JSX     |        256 |          0 |          5 |        261 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciList.tsx                   | TypeScript JSX     |         35 |          0 |          4 |         39 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetails.tsx                   | TypeScript JSX     |         53 |          1 |          7 |         61 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsChat.tsx               | TypeScript JSX     |         67 |          0 |          4 |         71 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsHeader.tsx             | TypeScript JSX     |         94 |          0 |          4 |         98 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsInfo.tsx               | TypeScript JSX     |        122 |          0 |          8 |        130 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsSidebar.tsx            | TypeScript JSX     |        124 |          0 |          5 |        129 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhoto.tsx                     | TypeScript JSX     |         19 |          0 |          5 |         24 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhotoList.tsx                 | TypeScript JSX     |         67 |          0 |          5 |         72 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\form\AktywnoscForm.tsx                         | TypeScript JSX     |        236 |          0 |         10 |        246 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\Forbidden.tsx                                      | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\NotFound.tsx                                       | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\ValidationError.tsx                                | TypeScript JSX     |         31 |          0 |          7 |         38 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\homePage\HomePage.tsx                                     | TypeScript JSX     |         83 |          0 |          6 |         89 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieDashboard.tsx                          | TypeScript JSX     |        158 |          0 |         12 |        170 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieForm.tsx                               | TypeScript JSX     |         70 |          0 |          5 |         75 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaDashboard.tsx                                | TypeScript JSX     |        158 |          0 |         12 |        170 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaForm.tsx                                     | TypeScript JSX     |         70 |          0 |          5 |         75 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaDashboard.tsx                              | TypeScript JSX     |        169 |          0 |         12 |        181 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaForm.tsx                                   | TypeScript JSX     |        133 |          0 |          7 |        140 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\LoginForm.tsx                                       | TypeScript JSX     |        130 |          0 |          5 |        135 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\PasswordChangeForm.tsx                              | TypeScript JSX     |        112 |          0 |          5 |        117 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\RegisterForm.tsx                                    | TypeScript JSX     |        122 |          0 |          5 |        127 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\dashboard\UsersDashboard.tsx                        | TypeScript JSX     |        207 |          0 |         11 |        218 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileAktywnosci.tsx                       | TypeScript JSX     |         35 |          0 |          5 |         40 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileBio.tsx                              | TypeScript JSX     |        182 |          0 |          5 |        187 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileCard.tsx                             | TypeScript JSX     |         33 |          6 |          5 |         44 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileContent.tsx                          | TypeScript JSX     |         60 |         16 |         10 |         86 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileHeader.tsx                           | TypeScript JSX     |         33 |         13 |          4 |         50 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePage.tsx                             | TypeScript JSX     |         29 |          0 |          6 |         35 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePhotosList.tsx                       | TypeScript JSX     |        110 |          0 |          7 |        117 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\index.tsx                                                          | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\react-app-env.d.ts                                                 | TypeScript         |          0 |          1 |          1 |          2 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\reportWebVitals.ts                                                 | TypeScript         |         13 |          0 |          3 |         16 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\setupTests.ts                                                      | TypeScript         |          1 |          4 |          1 |          6 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\tsconfig.json                                                          | JSON with Comments |         26 |          0 |          1 |         27 |
+| Total                                                                                                                          |                    |     14,226 |       -193 |       -431 |     13,602 |
++--------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

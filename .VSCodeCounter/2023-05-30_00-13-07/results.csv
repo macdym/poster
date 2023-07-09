@@ -1,0 +1,78 @@
+"filename", "language", "JSON with Comments", "JSON", "TypeScript", "TypeScript JSX", "Markdown", "HTML", "JavaScript JSX", "CSS", "comment", "blank", "total"
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\details.md", "Markdown", 0, 0, 0, 0, 74, 0, 0, 0, 0, 6, 80
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff-details.md", "Markdown", 0, 0, 0, 0, 9, 0, 0, 0, 0, 6, 15
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff.md", "Markdown", 0, 0, 0, 0, 12, 0, 0, 0, 0, 7, 19
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.json", "JSON", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.md", "Markdown", 0, 0, 0, 0, 40, 0, 0, 0, 0, 7, 47
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\README.md", "Markdown", 0, 0, 0, 0, 26, 0, 0, 0, 0, 21, 47
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package-lock.json", "JSON", 0, 13256, 0, 0, 0, 0, 0, 0, 0, 1, 13257
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package.json", "JSON", 0, 69, 0, 0, 0, 0, 0, 0, 0, 1, 70
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\index.html", "HTML", 0, 0, 0, 0, 0, 20, 0, 0, 23, 1, 44
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\manifest.json", "JSON", 0, 25, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\api\agent.ts", "TypeScript", 0, 0, 153, 0, 0, 0, 0, 0, 0, 13, 166
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\PhotoUploadWidget.tsx", "TypeScript JSX", 0, 0, 0, 125, 0, 0, 0, 0, 0, 15, 140
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\translations.ts", "TypeScript", 0, 0, 96, 0, 0, 0, 0, 0, 0, 1, 97
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Clock.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 53, 0, 0, 8, 61
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Number.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 11, 0, 0, 2, 13
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Word.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 15, 0, 0, 2, 17
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\clockStyles.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 101, 0, 18, 119
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\copyright.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 14, 0, 0, 3, 17
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\App.tsx", "TypeScript JSX", 0, 0, 0, 39, 0, 0, 0, 0, 0, 6, 45
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\LoadingComponent.tsx", "TypeScript JSX", 0, 0, 0, 20, 0, 0, 0, 0, 0, 4, 24
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\NavBar.tsx", "TypeScript JSX", 0, 0, 0, 266, 0, 0, 0, 0, 0, 10, 276
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\styles.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 40, 0, 2, 42
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnosc.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 2, 19
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnoscFilter.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\kategoria.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miasto.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miejsce.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\user.ts", "TypeScript", 0, 0, 41, 0, 0, 0, 0, 0, 0, 6, 47
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\protectedRoute.tsx", "TypeScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 0, 4, 15
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\routes.tsx", "TypeScript JSX", 0, 0, 0, 74, 0, 0, 0, 0, 0, 3, 77
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\aktywnoscStore.ts", "TypeScript", 0, 0, 238, 0, 0, 0, 0, 0, 0, 23, 261
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\commonStore.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 0, 6, 30
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\kategorieStore.ts", "TypeScript", 0, 0, 73, 0, 0, 0, 0, 0, 0, 13, 86
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miastaStore.ts", "TypeScript", 0, 0, 73, 0, 0, 0, 0, 0, 0, 13, 86
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miejscaStore.ts", "TypeScript", 0, 0, 85, 0, 0, 0, 0, 0, 0, 15, 100
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\store.ts", "TypeScript", 0, 0, 27, 0, 0, 0, 0, 0, 0, 4, 31
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\userStore.ts", "TypeScript", 0, 0, 289, 0, 0, 0, 0, 0, 0, 34, 323
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItem.tsx", "TypeScript JSX", 0, 0, 0, 162, 0, 0, 0, 0, 0, 9, 171
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItemUsers.tsx", "TypeScript JSX", 0, 0, 0, 36, 0, 0, 0, 0, 0, 4, 40
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciDashboard.tsx", "TypeScript JSX", 0, 0, 0, 62, 0, 0, 0, 0, 0, 7, 69
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciFilters.tsx", "TypeScript JSX", 0, 0, 0, 256, 0, 0, 0, 0, 0, 5, 261
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciList.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 4, 39
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetails.tsx", "TypeScript JSX", 0, 0, 0, 53, 0, 0, 0, 0, 1, 7, 61
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsChat.tsx", "TypeScript JSX", 0, 0, 0, 67, 0, 0, 0, 0, 0, 4, 71
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsHeader.tsx", "TypeScript JSX", 0, 0, 0, 94, 0, 0, 0, 0, 0, 4, 98
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsInfo.tsx", "TypeScript JSX", 0, 0, 0, 122, 0, 0, 0, 0, 0, 8, 130
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsSidebar.tsx", "TypeScript JSX", 0, 0, 0, 124, 0, 0, 0, 0, 0, 5, 129
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhoto.tsx", "TypeScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 0, 5, 24
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhotoList.tsx", "TypeScript JSX", 0, 0, 0, 67, 0, 0, 0, 0, 0, 5, 72
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\form\AktywnoscForm.tsx", "TypeScript JSX", 0, 0, 0, 236, 0, 0, 0, 0, 0, 10, 246
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\Forbidden.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\NotFound.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\ValidationError.tsx", "TypeScript JSX", 0, 0, 0, 31, 0, 0, 0, 0, 0, 7, 38
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\homePage\HomePage.tsx", "TypeScript JSX", 0, 0, 0, 83, 0, 0, 0, 0, 0, 6, 89
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieDashboard.tsx", "TypeScript JSX", 0, 0, 0, 158, 0, 0, 0, 0, 0, 12, 170
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieForm.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 5, 75
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaDashboard.tsx", "TypeScript JSX", 0, 0, 0, 158, 0, 0, 0, 0, 0, 12, 170
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaForm.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 5, 75
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaDashboard.tsx", "TypeScript JSX", 0, 0, 0, 169, 0, 0, 0, 0, 0, 12, 181
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaForm.tsx", "TypeScript JSX", 0, 0, 0, 133, 0, 0, 0, 0, 0, 7, 140
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\LoginForm.tsx", "TypeScript JSX", 0, 0, 0, 130, 0, 0, 0, 0, 0, 5, 135
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\PasswordChangeForm.tsx", "TypeScript JSX", 0, 0, 0, 112, 0, 0, 0, 0, 0, 5, 117
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\RegisterForm.tsx", "TypeScript JSX", 0, 0, 0, 122, 0, 0, 0, 0, 0, 5, 127
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\dashboard\UsersDashboard.tsx", "TypeScript JSX", 0, 0, 0, 207, 0, 0, 0, 0, 0, 11, 218
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileAktywnosci.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 5, 40
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileBio.tsx", "TypeScript JSX", 0, 0, 0, 182, 0, 0, 0, 0, 0, 5, 187
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileCard.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 6, 5, 44
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileContent.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 16, 10, 86
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileHeader.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 13, 4, 50
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePage.tsx", "TypeScript JSX", 0, 0, 0, 29, 0, 0, 0, 0, 0, 6, 35
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePhotosList.tsx", "TypeScript JSX", 0, 0, 0, 110, 0, 0, 0, 0, 0, 7, 117
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\index.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\reportWebVitals.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\setupTests.ts", "TypeScript", 0, 0, 1, 0, 0, 0, 0, 0, 4, 1, 6
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\tsconfig.json", "JSON with Comments", 26, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"Total", "-", 26, 13351, 1154, 3844, 161, 20, 93, 141, 64, 488, 19342

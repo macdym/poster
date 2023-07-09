@@ -1,0 +1,135 @@
+Date : 2023-05-30 00:13:07
+Directory : c:\Users\dell\Desktop\Projekt inżynierski\poster.client
+Total : 76 files,  18790 codes, 64 comments, 488 blanks, all 19342 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          4 |     13,351 |          0 |          3 |     13,354 |
+| TypeScript JSX     |         41 |      3,844 |         36 |        262 |      4,142 |
+| TypeScript         |         18 |      1,154 |          5 |        139 |      1,298 |
+| Markdown           |          5 |        161 |          0 |         47 |        208 |
+| CSS                |          2 |        141 |          0 |         20 |        161 |
+| JavaScript JSX     |          4 |         93 |          0 |         15 |        108 |
+| JSON with Comments |          1 |         26 |          0 |          1 |         27 |
+| HTML               |          1 |         20 |         23 |          1 |         44 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                    |         76 |     18,790 |         64 |        488 |     19,342 |
+| . (Files)                                                                                                            |          4 |     13,377 |          0 |         24 |     13,401 |
+| .VSCodeCounter                                                                                                       |          5 |        136 |          0 |         26 |        162 |
+| .VSCodeCounter\2023-05-30_00-11-37                                                                                   |          5 |        136 |          0 |         26 |        162 |
+| public                                                                                                               |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                                  |         65 |      5,232 |         41 |        436 |      5,709 |
+| src (Files)                                                                                                          |          4 |         31 |          5 |          8 |         44 |
+| src\app                                                                                                              |         27 |      1,909 |          0 |        211 |      2,120 |
+| src\app\api                                                                                                          |          1 |        153 |          0 |         13 |        166 |
+| src\app\common                                                                                                       |          2 |        221 |          0 |         16 |        237 |
+| src\app\components                                                                                                   |          5 |        194 |          0 |         33 |        227 |
+| src\app\layout                                                                                                       |          4 |        365 |          0 |         22 |        387 |
+| src\app\models                                                                                                       |          6 |         82 |          0 |         12 |         94 |
+| src\app\router                                                                                                       |          2 |         85 |          0 |          7 |         92 |
+| src\app\store                                                                                                        |          7 |        809 |          0 |        108 |        917 |
+| src\features                                                                                                         |         34 |      3,292 |         36 |        217 |      3,545 |
+| src\features\aktywnosci                                                                                              |         13 |      1,333 |          1 |         77 |      1,411 |
+| src\features\aktywnosci\dashboard                                                                                    |          5 |        551 |          0 |         29 |        580 |
+| src\features\aktywnosci\details                                                                                      |          7 |        546 |          1 |         38 |        585 |
+| src\features\aktywnosci\form                                                                                         |          1 |        236 |          0 |         10 |        246 |
+| src\features\errors                                                                                                  |          3 |         65 |          0 |         13 |         78 |
+| src\features\homePage                                                                                                |          1 |         83 |          0 |          6 |         89 |
+| src\features\kategorie                                                                                               |          2 |        228 |          0 |         17 |        245 |
+| src\features\miasta                                                                                                  |          2 |        228 |          0 |         17 |        245 |
+| src\features\miejsca                                                                                                 |          2 |        302 |          0 |         19 |        321 |
+| src\features\users                                                                                                   |         11 |      1,053 |         35 |         68 |      1,156 |
+| src\features\users (Files)                                                                                           |          3 |        364 |          0 |         15 |        379 |
+| src\features\users\dashboard                                                                                         |          1 |        207 |          0 |         11 |        218 |
+| src\features\users\profile                                                                                           |          7 |        482 |         35 |         42 |        559 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                             | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\details.md                | Markdown           |         74 |          0 |          6 |         80 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff-details.md           | Markdown           |          9 |          0 |          6 |         15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff.md                   | Markdown           |         12 |          0 |          7 |         19 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.json              | JSON               |          1 |          0 |          0 |          1 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.md                | Markdown           |         40 |          0 |          7 |         47 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\README.md                                                    | Markdown           |         26 |          0 |         21 |         47 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package-lock.json                                            | JSON               |     13,256 |          0 |          1 |     13,257 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package.json                                                 | JSON               |         69 |          0 |          1 |         70 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\index.html                                            | HTML               |         20 |         23 |          1 |         44 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\manifest.json                                         | JSON               |         25 |          0 |          1 |         26 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\api\agent.ts                                         | TypeScript         |        153 |          0 |         13 |        166 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\PhotoUploadWidget.tsx                         | TypeScript JSX     |        125 |          0 |         15 |        140 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\translations.ts                               | TypeScript         |         96 |          0 |          1 |         97 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Clock.jsx                                 | JavaScript JSX     |         53 |          0 |          8 |         61 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Number.jsx                                | JavaScript JSX     |         11 |          0 |          2 |         13 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Word.jsx                                  | JavaScript JSX     |         15 |          0 |          2 |         17 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\clockStyles.module.css                    | CSS                |        101 |          0 |         18 |        119 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\copyright.jsx                             | JavaScript JSX     |         14 |          0 |          3 |         17 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\App.tsx                                       | TypeScript JSX     |         39 |          0 |          6 |         45 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\LoadingComponent.tsx                          | TypeScript JSX     |         20 |          0 |          4 |         24 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\NavBar.tsx                                    | TypeScript JSX     |        266 |          0 |         10 |        276 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\styles.css                                    | CSS                |         40 |          0 |          2 |         42 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnosc.ts                                  | TypeScript         |         17 |          0 |          2 |         19 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnoscFilter.ts                            | TypeScript         |          8 |          0 |          1 |          9 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\kategoria.ts                                  | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miasto.ts                                     | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miejsce.ts                                    | TypeScript         |          8 |          0 |          1 |          9 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\user.ts                                       | TypeScript         |         41 |          0 |          6 |         47 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\protectedRoute.tsx                            | TypeScript JSX     |         11 |          0 |          4 |         15 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\routes.tsx                                    | TypeScript JSX     |         74 |          0 |          3 |         77 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\aktywnoscStore.ts                              | TypeScript         |        238 |          0 |         23 |        261 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\commonStore.ts                                 | TypeScript         |         24 |          0 |          6 |         30 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\kategorieStore.ts                              | TypeScript         |         73 |          0 |         13 |         86 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miastaStore.ts                                 | TypeScript         |         73 |          0 |         13 |         86 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miejscaStore.ts                                | TypeScript         |         85 |          0 |         15 |        100 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\store.ts                                       | TypeScript         |         27 |          0 |          4 |         31 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\userStore.ts                                   | TypeScript         |        289 |          0 |         34 |        323 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItem.tsx      | TypeScript JSX     |        162 |          0 |          9 |        171 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItemUsers.tsx | TypeScript JSX     |         36 |          0 |          4 |         40 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciDashboard.tsx    | TypeScript JSX     |         62 |          0 |          7 |         69 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciFilters.tsx      | TypeScript JSX     |        256 |          0 |          5 |        261 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciList.tsx         | TypeScript JSX     |         35 |          0 |          4 |         39 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetails.tsx         | TypeScript JSX     |         53 |          1 |          7 |         61 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsChat.tsx     | TypeScript JSX     |         67 |          0 |          4 |         71 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsHeader.tsx   | TypeScript JSX     |         94 |          0 |          4 |         98 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsInfo.tsx     | TypeScript JSX     |        122 |          0 |          8 |        130 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsSidebar.tsx  | TypeScript JSX     |        124 |          0 |          5 |        129 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhoto.tsx           | TypeScript JSX     |         19 |          0 |          5 |         24 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhotoList.tsx       | TypeScript JSX     |         67 |          0 |          5 |         72 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\form\AktywnoscForm.tsx               | TypeScript JSX     |        236 |          0 |         10 |        246 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\Forbidden.tsx                            | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\NotFound.tsx                             | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\ValidationError.tsx                      | TypeScript JSX     |         31 |          0 |          7 |         38 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\homePage\HomePage.tsx                           | TypeScript JSX     |         83 |          0 |          6 |         89 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieDashboard.tsx                | TypeScript JSX     |        158 |          0 |         12 |        170 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieForm.tsx                     | TypeScript JSX     |         70 |          0 |          5 |         75 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaDashboard.tsx                      | TypeScript JSX     |        158 |          0 |         12 |        170 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaForm.tsx                           | TypeScript JSX     |         70 |          0 |          5 |         75 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaDashboard.tsx                    | TypeScript JSX     |        169 |          0 |         12 |        181 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaForm.tsx                         | TypeScript JSX     |        133 |          0 |          7 |        140 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\LoginForm.tsx                             | TypeScript JSX     |        130 |          0 |          5 |        135 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\PasswordChangeForm.tsx                    | TypeScript JSX     |        112 |          0 |          5 |        117 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\RegisterForm.tsx                          | TypeScript JSX     |        122 |          0 |          5 |        127 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\dashboard\UsersDashboard.tsx              | TypeScript JSX     |        207 |          0 |         11 |        218 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileAktywnosci.tsx             | TypeScript JSX     |         35 |          0 |          5 |         40 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileBio.tsx                    | TypeScript JSX     |        182 |          0 |          5 |        187 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileCard.tsx                   | TypeScript JSX     |         33 |          6 |          5 |         44 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileContent.tsx                | TypeScript JSX     |         60 |         16 |         10 |         86 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileHeader.tsx                 | TypeScript JSX     |         33 |         13 |          4 |         50 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePage.tsx                   | TypeScript JSX     |         29 |          0 |          6 |         35 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePhotosList.tsx             | TypeScript JSX     |        110 |          0 |          7 |        117 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\index.tsx                                                | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\react-app-env.d.ts                                       | TypeScript         |          0 |          1 |          1 |          2 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\reportWebVitals.ts                                       | TypeScript         |         13 |          0 |          3 |         16 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\setupTests.ts                                            | TypeScript         |          1 |          4 |          1 |          6 |
+| c:\Users\dell\Desktop\Projekt inżynierski\poster.client\tsconfig.json                                                | JSON with Comments |         26 |          0 |          1 |         27 |
+| Total                                                                                                                |                    |     18,790 |         64 |        488 |     19,342 |
++----------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

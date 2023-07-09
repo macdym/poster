@@ -1,0 +1,189 @@
+"filename", "language", "JSON with Comments", "JSON", "TypeScript", "TypeScript JSX", "Markdown", "HTML", "JavaScript JSX", "CSS", "C#", "XML", "comment", "blank", "total"
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\AccountController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -188, 0, -48, -38, -274
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\AktywnosciController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -69, 0, -46, -13, -128
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\BaseController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -15, 0, 0, -3, -18
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\KategorieController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -53, 0, -27, -8, -88
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\MiastaController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -46, 0, -27, -8, -81
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\MiejscaController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -65, 0, -33, -9, -107
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\PhotosController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -47, 0, -31, -12, -90
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Controllers\UsersController.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -60, 0, -39, -18, -117
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Extensions\ApplicationServiceExtensions.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -59, 0, 0, -7, -66
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Extensions\IdentityServiceExtensions.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -57, 0, 0, -8, -65
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Program.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -42, 0, 0, -12, -54
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Properties\launchSettings.json", "JSON", 0, -15, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -16
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\Services\TokenService.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -37, 0, 0, -8, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\appsettings.Development.json", "JSON", 0, -13, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\appsettings.json", "JSON", 0, -14, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1, -15
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.api\poster.api.csproj", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, -21, 0, -5, -26
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\AddAktywnoscPhoto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -41, 0, 0, -9, -50
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\CreateAktywnosc.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -58, 0, 0, -9, -67
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\DeleteAktywnosc.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -35, 0, 0, -7, -42
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\DeleteAktywnoscPhoto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -36, 0, 0, -9, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\SetMainAktywnoscPhoto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -36, 0, 0, -9, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\UpdateAktywnosc.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -39, 0, 0, -6, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Commands\UpdateAktywnoscUser.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -56, 0, 0, -13, -69
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\AktywnoscDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -22, 0, 0, -2, -24
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\AktywnoscFilterDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -1, -13
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\CreateAktywnoscDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -13, 0, 0, -2, -15
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\DTOs\UpdateAktywnoscDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -16, 0, 0, -3, -19
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Queries\GetAktywnoscById.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -29, 0, 0, -6, -35
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Queries\GetAllAktywnosci.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -26, 0, 0, -5, -31
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Queries\GetFilteredAktywnosci.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -88, 0, 0, -12, -100
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Validators\CreateAktywnoscValidator.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -18, 0, 0, -2, -20
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Aktywnosci\Validators\UpdateAktywnoscValidator.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -19, 0, 0, -2, -21
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Extensions\Result.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -11, 0, 0, -1, -12
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Interfaces\IPhotoAccessor.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -10, 0, 0, -2, -12
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Interfaces\IUserAccessor.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -7, 0, 0, -1, -8
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Commands\CreateKategoria.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -39, 0, 0, -7, -46
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Commands\DeleteKategoria.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -32, 0, 0, -6, -38
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Commands\UpdateKategoria.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -39, 0, 0, -6, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\DTOs\KategoriaDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -8, 0, 0, -1, -9
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Queries\GetAllKategorie.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -26, 0, 0, -5, -31
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Queries\GetKategoriaById.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -29, 0, 0, -5, -34
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Kategorie\Validators\KategoriaValidator.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -2, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\AktywnoscMappingProfile.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -29, 0, 0, -6, -35
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\KategoriaMappingProfile.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -14, 0, 0, -2, -16
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\MiastoMappingProfile.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -15, 0, 0, -2, -17
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\MiejsceMappingProfile.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -17, 0, 0, -3, -20
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\PhotoMappingProfile.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -14, 0, 0, -2, -16
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\MappingProfiles\UsersMappingProfile.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -17, 0, 0, -2, -19
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Commands\CreateMiasto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -39, 0, 0, -7, -46
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Commands\DeleteMiasto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -32, 0, 0, -6, -38
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Commands\UpdateMiasto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -39, 0, 0, -6, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\DTOs\MiastoDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -9, 0, 0, -2, -11
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Queries\GetAllMiasta.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -26, 0, 0, -5, -31
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Queries\GetMiastoById.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -29, 0, 0, -5, -34
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miasta\Validators\MiastoValidator.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -2, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Commands\CreateMiejsce.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -39, 0, 0, -7, -46
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Commands\DeleteMiejsce.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -32, 0, 0, -7, -39
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Commands\UpdateMiejsce.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -39, 0, 0, -6, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\DTOs\MiejsceDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -1, -13
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Queries\GetAllMiejsca.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -26, 0, 0, -6, -32
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Queries\GetMiejscaByMiastoId.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -28, 0, 0, -6, -34
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Queries\GetMiejsceById.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -29, 0, 0, -6, -35
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Miejsca\Validators\MiejsceValidator.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -14, 0, 0, -2, -16
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\Commands\AddPhoto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -42, 0, 0, -9, -51
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\Commands\DeletePhoto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -38, 0, 0, -9, -47
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\Commands\SetMainPhoto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -36, 0, 0, -10, -46
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\DTOs\PhotoDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -9, 0, 0, -1, -10
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Photos\PhotoUploadResult.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -8, 0, 0, -1, -9
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\Commands\UpdateUser.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -34, 0, 0, -7, -41
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\ChangePasswordDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -16, 0, 0, -2, -18
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\LoginUserDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -2, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\RegisterUserDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -15, 0, 0, -2, -17
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\UpdateRoleDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -7, 0, 0, -1, -8
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\UpdateUserDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -15, 0, 0, -2, -17
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\DTOs\UserDTO.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -20, 0, 0, -2, -22
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\Users\Validators\ChangePasswordValidator.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -21, 0, 0, -4, -25
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.application\poster.application.csproj", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, -19, 0, -6, -25
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Aktywnosc.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -19, 0, 0, -3, -22
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\AktywnoscUser.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -11, 0, 0, -1, -12
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Kategoria.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -9, 0, 0, -1, -10
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Miasto.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -10, 0, 0, -1, -11
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Miejsce.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -13, 0, 0, -1, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\Photo.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -13, 0, 0, -1, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\User.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -2, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.domain\poster.domain.csproj", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, -10, 0, -4, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Photos\CloudinarySettings.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -9, 0, 0, -1, -10
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Photos\PhotoAccessor.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -47, 0, 0, -8, -55
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\IsAdminRequirement.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -16, 0, 0, -4, -20
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\IsCurrentUserRequirement.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -30, 0, 0, -11, -41
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\IsHostRequirement.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -34, 0, 0, -11, -45
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\Security\UserAccessor.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -18, 0, 0, -3, -21
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.infrastructure\poster.infrastructure.csproj", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, -13, 0, -5, -18
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Aktywnosci\Repositories\AktywnoscRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -108, 0, 0, -16, -124
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Aktywnosci\Repositories\Interfaces\IAktywnoscRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -18, 0, 0, -2, -20
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\DataContext.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -41, 0, 0, -9, -50
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Kategorie\Repositories\Interfaces\IKategorieRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -2, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Kategorie\Repositories\KategorieRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -46, 0, 0, -10, -56
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miasta\Respositories\Interfaces\IMiastaRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -2, -14
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miasta\Respositories\MiastaRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -48, 0, 0, -10, -58
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miejsca\Repositories\Interfaces\IMiejscaRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -13, 0, 0, -2, -15
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Miejsca\Repositories\MiejscaRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -55, 0, 0, -11, -66
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Migrations\20230529210117_InitialCreate.Designer.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -381, 0, -2, -144, -527
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Migrations\20230529210117_InitialCreate.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -367, 0, -3, -42, -412
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Migrations\DataContextModelSnapshot.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -379, 0, -1, -144, -524
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seed.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -48, 0, 0, -5, -53
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seeders\AktywnosciSeed.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -64, 0, 0, -2, -66
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seeders\MiastoSeed.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -219, 0, 0, -3, -222
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Seed\Seeders\UserSeed.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -12, 0, 0, -3, -15
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Users\Repository\Interfaces\IUsersRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -14, 0, 0, -2, -16
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\Users\Repository\UsersRepository.cs", "C#", 0, 0, 0, 0, 0, 0, 0, 0, -85, 0, 0, -14, -99
+"c:\Users\dell\Desktop\Projekt inżynierski\Poster\poster.persistance\poster.persistance.csproj", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 0, -17, 0, -5, -22
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\details.md", "Markdown", 0, 0, 0, 0, 74, 0, 0, 0, 0, 0, 0, 6, 80
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff-details.md", "Markdown", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 6, 15
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\diff.md", "Markdown", 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 7, 19
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.json", "JSON", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\.VSCodeCounter\2023-05-30_00-11-37\results.md", "Markdown", 0, 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 7, 47
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\README.md", "Markdown", 0, 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 21, 47
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package-lock.json", "JSON", 0, 13256, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 13257
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\package.json", "JSON", 0, 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 70
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\index.html", "HTML", 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 23, 1, 44
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\public\manifest.json", "JSON", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\api\agent.ts", "TypeScript", 0, 0, 153, 0, 0, 0, 0, 0, 0, 0, 0, 13, 166
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\PhotoUploadWidget.tsx", "TypeScript JSX", 0, 0, 0, 125, 0, 0, 0, 0, 0, 0, 0, 15, 140
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\common\translations.ts", "TypeScript", 0, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 1, 97
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Clock.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 53, 0, 0, 0, 0, 8, 61
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Number.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 2, 13
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\Word.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 2, 17
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\clockStyles.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 101, 0, 0, 0, 18, 119
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\components\copyright.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 3, 17
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\App.tsx", "TypeScript JSX", 0, 0, 0, 39, 0, 0, 0, 0, 0, 0, 0, 6, 45
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\LoadingComponent.tsx", "TypeScript JSX", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 4, 24
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\NavBar.tsx", "TypeScript JSX", 0, 0, 0, 266, 0, 0, 0, 0, 0, 0, 0, 10, 276
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\layout\styles.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 40, 0, 0, 0, 2, 42
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnosc.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 2, 19
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\aktywnoscFilter.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\kategoria.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miasto.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\miejsce.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\models\user.ts", "TypeScript", 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 6, 47
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\protectedRoute.tsx", "TypeScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 4, 15
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\router\routes.tsx", "TypeScript JSX", 0, 0, 0, 74, 0, 0, 0, 0, 0, 0, 0, 3, 77
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\aktywnoscStore.ts", "TypeScript", 0, 0, 238, 0, 0, 0, 0, 0, 0, 0, 0, 23, 261
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\commonStore.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 6, 30
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\kategorieStore.ts", "TypeScript", 0, 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 13, 86
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miastaStore.ts", "TypeScript", 0, 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 13, 86
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\miejscaStore.ts", "TypeScript", 0, 0, 85, 0, 0, 0, 0, 0, 0, 0, 0, 15, 100
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\store.ts", "TypeScript", 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 4, 31
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\app\store\userStore.ts", "TypeScript", 0, 0, 289, 0, 0, 0, 0, 0, 0, 0, 0, 34, 323
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItem.tsx", "TypeScript JSX", 0, 0, 0, 162, 0, 0, 0, 0, 0, 0, 0, 9, 171
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnoscListItemUsers.tsx", "TypeScript JSX", 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 4, 40
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciDashboard.tsx", "TypeScript JSX", 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 0, 7, 69
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciFilters.tsx", "TypeScript JSX", 0, 0, 0, 256, 0, 0, 0, 0, 0, 0, 0, 5, 261
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\dashboard\AktywnosciList.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 4, 39
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetails.tsx", "TypeScript JSX", 0, 0, 0, 53, 0, 0, 0, 0, 0, 0, 1, 7, 61
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsChat.tsx", "TypeScript JSX", 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 4, 71
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsHeader.tsx", "TypeScript JSX", 0, 0, 0, 94, 0, 0, 0, 0, 0, 0, 0, 4, 98
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsInfo.tsx", "TypeScript JSX", 0, 0, 0, 122, 0, 0, 0, 0, 0, 0, 0, 8, 130
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscDetailsSidebar.tsx", "TypeScript JSX", 0, 0, 0, 124, 0, 0, 0, 0, 0, 0, 0, 5, 129
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhoto.tsx", "TypeScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 5, 24
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\details\AktywnoscPhotoList.tsx", "TypeScript JSX", 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 5, 72
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\aktywnosci\form\AktywnoscForm.tsx", "TypeScript JSX", 0, 0, 0, 236, 0, 0, 0, 0, 0, 0, 0, 10, 246
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\Forbidden.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\NotFound.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\errors\ValidationError.tsx", "TypeScript JSX", 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 7, 38
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\homePage\HomePage.tsx", "TypeScript JSX", 0, 0, 0, 83, 0, 0, 0, 0, 0, 0, 0, 6, 89
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieDashboard.tsx", "TypeScript JSX", 0, 0, 0, 158, 0, 0, 0, 0, 0, 0, 0, 12, 170
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\kategorie\KategorieForm.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 5, 75
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaDashboard.tsx", "TypeScript JSX", 0, 0, 0, 158, 0, 0, 0, 0, 0, 0, 0, 12, 170
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miasta\MiastaForm.tsx", "TypeScript JSX", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 0, 5, 75
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaDashboard.tsx", "TypeScript JSX", 0, 0, 0, 169, 0, 0, 0, 0, 0, 0, 0, 12, 181
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\miejsca\MiejscaForm.tsx", "TypeScript JSX", 0, 0, 0, 133, 0, 0, 0, 0, 0, 0, 0, 7, 140
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\LoginForm.tsx", "TypeScript JSX", 0, 0, 0, 130, 0, 0, 0, 0, 0, 0, 0, 5, 135
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\PasswordChangeForm.tsx", "TypeScript JSX", 0, 0, 0, 112, 0, 0, 0, 0, 0, 0, 0, 5, 117
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\RegisterForm.tsx", "TypeScript JSX", 0, 0, 0, 122, 0, 0, 0, 0, 0, 0, 0, 5, 127
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\dashboard\UsersDashboard.tsx", "TypeScript JSX", 0, 0, 0, 207, 0, 0, 0, 0, 0, 0, 0, 11, 218
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileAktywnosci.tsx", "TypeScript JSX", 0, 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 5, 40
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileBio.tsx", "TypeScript JSX", 0, 0, 0, 182, 0, 0, 0, 0, 0, 0, 0, 5, 187
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileCard.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 6, 5, 44
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileContent.tsx", "TypeScript JSX", 0, 0, 0, 60, 0, 0, 0, 0, 0, 0, 16, 10, 86
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfileHeader.tsx", "TypeScript JSX", 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 13, 4, 50
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePage.tsx", "TypeScript JSX", 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 6, 35
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\features\users\profile\ProfilePhotosList.tsx", "TypeScript JSX", 0, 0, 0, 110, 0, 0, 0, 0, 0, 0, 0, 7, 117
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\index.tsx", "TypeScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 3, 20
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\reportWebVitals.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\src\setupTests.ts", "TypeScript", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"c:\Users\dell\Desktop\Projekt inżynierski\poster.client\tsconfig.json", "JSON with Comments", 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"Total", "-", 26, 13309, 1154, 3844, 161, 20, 93, 141, -4442, -80, -193, -431, 13602

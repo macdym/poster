@@ -1,0 +1,41 @@
+body {
+  background: radial-gradient(
+      37.29% 37.68% at 83.89% 43.99%,
+      rgba(51, 240, 253, 0.335) 10.02%,
+      rgba(36, 238, 208, 0.602) 43.64%
+    ),
+    radial-gradient(
+      18.13% 20.88% at 8.33% 73.54%,
+      rgba(255, 255, 255, 0.403) 0%,
+      rgba(0, 0, 0, 0.371) 100%
+    ),
+    linear-gradient(
+      188.34deg,
+      rgba(199, 240, 123, 0.625) 7.69%,
+      rgba(212, 213, 225, 0.19) 34.92%,
+      rgba(88, 135, 121, 0.19) 60.97%,
+      rgba(85, 205, 16, 0.19) 82.49%,
+      rgba(120, 255, 246, 0.19) 91.83%,
+      rgba(140, 255, 215, 0.305) 106.06%
+    ) !important;
+  color: whitesmoke !important;
+  margin: 0;
+  height: 100% !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  font-weight: 400;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a:hover {
+  color: inherit !important;
+  cursor: pointer;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
