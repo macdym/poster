@@ -15,6 +15,12 @@ Creating and managing Events, developing self profiles and following etc.
   - MUI
   - Electron
 
-### Examples
+### Gallery
 
-<img width=100% src="assets/images/logo.png">
+<img width=100% src="/images/login.png">
+<img width=100% src="/images/register.png">
+<img width=100% src="/images/main.png">
+<img width=100% src="/images/details.png">
+<img width=100% src="/images/profile.png">
+<img width=100% src="/images/photos.png">
+<img width=100% src="/images/crm.png">
