@@ -7,9 +7,9 @@ Creating and managing Events, developing self profiles and following etc.
 
   - .NET 7 (used: SignalR, FluentValidation, AutoMapper, DependencyInjection, Jwt, ASP.NET Identity)
   - CQRS + MediatR pattern
-  - Cloudinary
   - EntityFramework
   - MSSQL
+  - Cloudinary
   - React (used: MobX, MUI, Formik, moment.js, Semantic-UI, Toastify)
   - TypeScript
   - Electron
