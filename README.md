@@ -28,4 +28,4 @@ Creating and managing Events, developing self profiles and following etc.
 </br>
 [Managing profile content]<img width=100% src="/images/photos.png">
 </br>
-[Sample CRM]<img width=100% src="/images/crm.png">
+[Sample CMS]<img width=100% src="/images/crm.png">
