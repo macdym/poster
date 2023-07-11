@@ -5,14 +5,14 @@ Creating and managing Events, developing self profiles and following etc.
 
 ## Build with
 
-  - .NET 7 (used: SignalR, FluentValidation, AutoMapper, DependencyInjection, Jwt, ASP.NET Identity)
+  - .NET 7
   - CQRS + MediatR
   - EntityFramework
   - MSSQL
   - Cloudinary
-  - React (used: MobX, MUI, formik, moment.js, semantic-ui, toastify, react-router)
+  - React
+  - MobX
   - TypeScript
-  - Electron
 
 ## Gallery
 
