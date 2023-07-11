@@ -10,7 +10,7 @@ Creating and managing Events, developing self profiles and following etc.
   - EntityFramework
   - MSSQL
   - Cloudinary
-  - React (used: MobX, MUI, Formik, moment.js, Semantic-UI, Toastify)
+  - React (used: MobX, MUI, formik, moment.js, semantic-ui, toastify, react-router)
   - TypeScript
   - Electron
 
