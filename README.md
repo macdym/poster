@@ -6,7 +6,7 @@ Creating and managing Events, developing self profiles and following etc.
 ## Build with
 
   - .NET 7 (used: SignalR, FluentValidation, AutoMapper, DependencyInjection, Jwt, ASP.NET Identity)
-  - CQRS + MediatR pattern
+  - CQRS + MediatR
   - EntityFramework
   - MSSQL
   - Cloudinary
